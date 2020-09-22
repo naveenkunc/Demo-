@@ -1,0 +1,2 @@
+1. Place the CSVDataFetch jar file under Soapui\bin\ext location.
+2. Change the CSV file location in Groovy script.
